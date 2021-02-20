@@ -1,0 +1,23 @@
+{
+  "name": "personal-webpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acloud-architect/personal-webpage.git"
+  },
+  "author": "Vineet Shukla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acloud-architect/personal-webpage/issues"
+  },
+  "homepage": "https://github.com/acloud-architect/personal-webpage#readme",
+  "dependencies": {
+    "http": "0.0.1-security",
+    "url": "^0.11.0"
+  }
+}
